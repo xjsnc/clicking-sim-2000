@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+html  {
+    background-color: rgb(39, 39, 39);
+}
+
+.text-main {
+    color: white;
+    background-color: rgb(39, 39, 39);
+    font-family: 'Montserrat';
+    border-color: transparent;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
